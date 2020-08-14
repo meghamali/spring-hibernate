@@ -3,13 +3,13 @@
 
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@page import="zuzu.constants.Constants"%>
+<%@page import="com.constants.Constants"%>
 <!DOCTYPE html>
 <html>
 <head>
 <title>Show Customers</title>
 
-<%@ page import="zuzu.constants.Constants"%>
+<%@ page import="com.constants.Constants"%>
 <meta charset="ISO-8859-1">
 <link type="test/css" rel="stylesheet"
 	href="${pageContext.request.contextPath}/resources/style.css" />

@@ -4,7 +4,7 @@
 
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@page import="zuzu.constants.Constants"%>
+<%@page import="com.constants.Constants"%>
 <!DOCTYPE html>
 <html>
 <head>
